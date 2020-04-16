@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="AbstractFactoryPattern/|AbstractFactoryPattern/" kind="src" path="src"/>
+	<classpathentry kind="src" path="Structural Pattern"/>
+	<classpathentry kind="src" path="Creational Pattern"/>
+	<classpathentry kind="src" path="Behavioral Pattern"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
